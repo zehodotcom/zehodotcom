@@ -2,8 +2,7 @@
 
 ## 🚀 About Me
 
-I'm an enthusiastic cybersecurity student with a passion for Python and a keen interest in data protection. Currently, I'm developing an application to encrypt and decrypt images, which reflects my commitment to enhancing data security and privacy. My studies in cybersecurity have equipped me with a solid foundation in protecting systems and information from threats, and I'm eager to apply these skills in real-world scenarios.
-
+I'm an enthusiastic cybersecurity student with a passion for Python and a keen interest in data protection.
 - 🌟 **Languages and Tools:** Python, Git, TypeScript, Java, SQL, HTML, CSS
 - 🌱 **Currently Learning:** Bash, Cybersecurity
 - 📫 **Connect with Me:**  [Email](mailto:qulr4p4s@anonaddy.me)
